@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="button">تسجيل الدخول</string>
+    <string name="sign">لا تمتلك حساب</string>
+    <string name="welcome">مرحبا ، سجل الدخول</string>
+</resources>

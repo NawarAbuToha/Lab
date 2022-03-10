@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Responsive</string>
+    <string name="username">Enter UserName</string>
+    <string name="password">Enter Password</string>
+    <string name="button">Login</string>
+    <string name="sign">Don't have account?</string>
+    <string name="welcome">Welcome back , Login</string>
+</resources>
